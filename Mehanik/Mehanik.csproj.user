@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="create forms\ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delete forms\DeleteClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delete forms\DeleteHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delete forms\DeleteMehanikForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delete forms\DeletePartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delete forms\DeleteServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Existing forms\ExistingClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Existing forms\ExistingHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Existing forms\ExistingMechanicsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Existing forms\ExistingPartsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Existing forms\ExistingServisesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="create forms\HistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main Menu\CreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main Menu\DeleteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main Menu\ShowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="create forms\MechanicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="create forms\PartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="create forms\ServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
